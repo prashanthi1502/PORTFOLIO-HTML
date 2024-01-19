@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Tangerine:wght@400;700&display=swap');
+
+body{
+    background-color:rgb(32, 148, 148)
+}
+.name{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+
+img {
+    border-radius: 300px;
+}
+
+img{
+    background-color:rgb(229, 238, 144);
+}
